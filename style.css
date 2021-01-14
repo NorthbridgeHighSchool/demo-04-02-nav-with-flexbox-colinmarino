@@ -32,3 +32,8 @@ nav a.current{
   border: 2px solid rgb(156, 140, 116);
   background-color: rgb(211, 209, 209);
 }
+nav a:active{
+  color: rgb(226, 59, 73);
+  border: 2px solid rgb(204, 53, 61);
+  background-color: rgb(211, 209, 209);
+}
